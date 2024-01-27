@@ -1,7 +1,7 @@
 {
   "name": "tejas-shrivastava-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://github.com/Tejas0422/MyPortfolio.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
